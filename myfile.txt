@@ -1,1 +1,1 @@
-This is new file for git
+This is new changed file for git
